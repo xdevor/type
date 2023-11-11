@@ -192,4 +192,4 @@ Please review [our security policy](SECURITY.md) on how to report security vulne
 
 ## License
 
-ComposerParser is open-sourced software licensed under the [MIT license](LICENSE.md).
+This package is open-sourced software licensed under the [MIT license](LICENSE.md).
