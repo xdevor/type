@@ -1,0 +1,44 @@
+{
+    "name": "xdevor/type",
+    "description": "A Laravel package which object type collection powered by Laravel's validation components.",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "type",
+        "value object",
+        "validation"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xdevor\\Type\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Xdevor\\Type\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/pest",
+        "test:cov": "vendor/bin/pest --coverage"
+    },
+    "authors": [
+        {
+            "name": "xdevor",
+            "email": "0.yu.zhuang@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "require-dev": {
+        "pestphp/pest": "^1.23",
+        "orchestra/testbench": "^6.38"
+    }
+}
