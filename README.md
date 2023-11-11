@@ -5,7 +5,7 @@ In this package we've introduced a new type package that focuses on validating o
 This package not only allows you to validate basic data types but also supports complex object structures. Using Laravel's fluent validation syntax, you can define the expected properties of an object to ensure their types and existence.
 
 <p align="left">
-    <a href="https://github.com/xdevor/type/actions"><img src="https://github.com/xdevor/type/actions/workflows/tests.yml/badge.svg" alt="Test Status"></a>
+    <a href="https://github.com/xdevor/type/actions"><img src="https://github.com/xdevor/type/actions/workflows/test.yml/badge.svg" alt="Test Status"></a>
     <a href="https://packagist.org/packages/xdevor/type"><img src="https://poser.pugx.org/xdevor/type/d/total.svg" alt="Total Downloads"></a>
     <a href="https://packagist.org/packages/xdevor/type"><img src="https://img.shields.io/packagist/v/xdevor/type.svg?v=1.5.0" alt="packagist"></a>
     <a href="https://packagist.org/packages/xdevor/type"><img src="https://poser.pugx.org/xdevor/type/license.svg" alt="License"></a>
